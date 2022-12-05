@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema1FatoresDaQualidadeDeSoftwareFuncaoFatorial", "Tema1FatoresDaQualidadeDeSoftwareFuncaoFatorial\Tema1FatoresDaQualidadeDeSoftwareFuncaoFatorial.csproj", "{5291DC53-975B-4B2D-B7C1-D262B5458394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema1FatoresDaQualidadeDeSoftwareImprimirMenu", "Tema1FatoresDaQualidadeDeSoftwareImprimirMenu\Tema1FatoresDaQualidadeDeSoftwareImprimirMenu.csproj", "{FC1F556B-EC18-4777-92DE-996CCB13BB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema1FatoresDaQualidadeDeSoftwareContaBancaria", "Tema1FatoresDaQualidadeDeSoftwareContaBancaria\Tema1FatoresDaQualidadeDeSoftwareContaBancaria.csproj", "{F207707E-544E-4A17-B9FA-CB43FDC736D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosMetodosSemanticaReferencia", "Tema2AtributosMetodosSemanticaReferencia\Tema2AtributosMetodosSemanticaReferencia.csproj", "{23F138BA-0A55-414C-8961-29E032689F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosMetodosAtividadeComplementar", "Tema2AtributosMetodosAtividadeComplementar\Tema2AtributosMetodosAtividadeComplementar.csproj", "{16C509C7-BBDF-4ABB-9F10-F21274F5D987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosMetodosConstrutores", "Tema2AtributosMetodosConstrutores\Tema2AtributosMetodosConstrutores.csproj", "{146DEF91-8CEE-4066-B29F-265A0937C330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosMetodosConstrutoresAtividadeFixacao", "Tema2AtributosMetodosConstrutoresAtividadeFixacao\Tema2AtributosMetodosConstrutoresAtividadeFixacao.csproj", "{0FC9838D-9F50-4DA5-89D9-95CF24F1B208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosEstaticosPropriedadesContadorAutoincremento", "Tema2AtributosEstaticosPropriedadesContadorAutoincremento\Tema2AtributosEstaticosPropriedadesContadorAutoincremento.csproj", "{DB954439-E4FA-468D-B713-01E636C3C9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2AtributosEstaticosPropriedadesAtividadeDeFixacao", "Tema2AtributosEstaticosPropriedadesAtividadeDeFixacao\Tema2AtributosEstaticosPropriedadesAtividadeDeFixacao.csproj", "{495E4863-29F4-49FB-920F-800117B44A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5291DC53-975B-4B2D-B7C1-D262B5458394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5291DC53-975B-4B2D-B7C1-D262B5458394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5291DC53-975B-4B2D-B7C1-D262B5458394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5291DC53-975B-4B2D-B7C1-D262B5458394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1F556B-EC18-4777-92DE-996CCB13BB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1F556B-EC18-4777-92DE-996CCB13BB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1F556B-EC18-4777-92DE-996CCB13BB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1F556B-EC18-4777-92DE-996CCB13BB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F207707E-544E-4A17-B9FA-CB43FDC736D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F207707E-544E-4A17-B9FA-CB43FDC736D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F207707E-544E-4A17-B9FA-CB43FDC736D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F207707E-544E-4A17-B9FA-CB43FDC736D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F138BA-0A55-414C-8961-29E032689F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F138BA-0A55-414C-8961-29E032689F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F138BA-0A55-414C-8961-29E032689F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F138BA-0A55-414C-8961-29E032689F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C509C7-BBDF-4ABB-9F10-F21274F5D987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C509C7-BBDF-4ABB-9F10-F21274F5D987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C509C7-BBDF-4ABB-9F10-F21274F5D987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C509C7-BBDF-4ABB-9F10-F21274F5D987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146DEF91-8CEE-4066-B29F-265A0937C330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146DEF91-8CEE-4066-B29F-265A0937C330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146DEF91-8CEE-4066-B29F-265A0937C330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146DEF91-8CEE-4066-B29F-265A0937C330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC9838D-9F50-4DA5-89D9-95CF24F1B208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC9838D-9F50-4DA5-89D9-95CF24F1B208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC9838D-9F50-4DA5-89D9-95CF24F1B208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC9838D-9F50-4DA5-89D9-95CF24F1B208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB954439-E4FA-468D-B713-01E636C3C9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB954439-E4FA-468D-B713-01E636C3C9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB954439-E4FA-468D-B713-01E636C3C9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB954439-E4FA-468D-B713-01E636C3C9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495E4863-29F4-49FB-920F-800117B44A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495E4863-29F4-49FB-920F-800117B44A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495E4863-29F4-49FB-920F-800117B44A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E4863-29F4-49FB-920F-800117B44A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/Unidade1QualidadeSoftware
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/Unidade1QualidadeSoftware.deps.json
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/Unidade1QualidadeSoftware.runtimeconfig.json
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/Unidade1QualidadeSoftware.dll
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/ref/Unidade1QualidadeSoftware.dll
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/bin/Debug/net6.0/Unidade1QualidadeSoftware.pdb
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.csproj.AssemblyReference.cache
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.AssemblyInfoInputs.cache
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.AssemblyInfo.cs
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.csproj.CoreCompileInputs.cache
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.dll
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/ref/Unidade1QualidadeSoftware.dll
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.pdb
+/home/thata/RiderProjects/programacaoModular/Unidade1QualidadeSoftware/obj/Debug/net6.0/Unidade1QualidadeSoftware.genruntimeconfig.cache
